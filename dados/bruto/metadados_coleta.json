@@ -1,0 +1,17 @@
+{
+  "fonte": "Open-Meteo Historical Weather API",
+  "url_base": "https://archive-api.open-meteo.com/v1/archive",
+  "localidade": "São Paulo - SP",
+  "latitude": -23.5505,
+  "longitude": -46.6333,
+  "periodo_inicio": "2026-10-01",
+  "periodo_fim": "2026-10-31",
+  "timezone": "America/Sao_Paulo",
+  "variaveis_horarias": [
+    "temperature_2m",
+    "precipitation",
+    "wind_speed_10m"
+  ],
+  "data_hora_coleta_local": "2026-11-25T17:07:51",
+  "arquivo_json_preservado": "dados\\bruto\\open_meteo_sp_2026_10.json"
+}

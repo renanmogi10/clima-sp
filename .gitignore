@@ -1,6 +1,14 @@
+# Ambiente virtual
 .venv/
+venv/
 __pycache__/
+*.py[cod]
+
+# Arquivos temporários / editores
+.vscode/
+*.tmp
+*.log
+
+# Banco local
 *.duckdb
-*.wal
-dados/bruto/*
-!dados/bruto/.gitkeep
+*.duckdb.wal
