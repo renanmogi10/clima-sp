@@ -12,6 +12,6 @@
     "precipitation",
     "wind_speed_10m"
   ],
-  "data_hora_coleta_local": "2026-11-25T17:07:51",
+  "data_hora_coleta_local": "2026-11-25T18:01:15",
   "arquivo_json_preservado": "dados\\bruto\\open_meteo_sp_2026_10.json"
 }
